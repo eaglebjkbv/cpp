@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/kutuphane.hpp
+
+/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/src/kutuphane.cpp
+kutuphane.hpp
+/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/src/kutuphane.hpp
+

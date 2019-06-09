@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/build",
+  "command": "/usr/bin/clang++   -I/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/CmakeDeneme.dir/src/main.cpp.o -c /Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/src/main.cpp",
+  "file": "/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/src/main.cpp"
+},
+{
+  "directory": "/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/build",
+  "command": "/usr/bin/clang++   -I/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/include  -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -o CMakeFiles/CmakeDeneme.dir/src/kutuphane.cpp.o -c /Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/src/kutuphane.cpp",
+  "file": "/Users/bulentvardal/Desktop/Calismalar/c++/CmakeDeneme/src/kutuphane.cpp"
+}
+]
