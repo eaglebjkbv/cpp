@@ -1,4 +1,4 @@
-// Dereleme : g++ main.cpp -o main
+// Dereleme : g++ -std=c++11 main.cpp -o main
 #include <iostream>
 #include <thread>
 #include <chrono>
@@ -10,7 +10,7 @@ bool bitti2=false;
 void deneme(int a)
 {
     while(!bitti){
-        std::cout<<"Thread Calisiyor : "<< a <<std::endl;
+        std::cout<<"Thread  1 Calisiyor : "<< a <<std::endl;
         std::this_thread::sleep_for(std::chrono::milliseconds(1000));
     }
 
